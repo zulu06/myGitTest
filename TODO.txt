@@ -1,1 +1,5 @@
+<<<<<<< Upstream, based on origin/master
 Modified version 02 in mydev
+=======
+Master version restored - update
+>>>>>>> 1a8196a update in local master branch
