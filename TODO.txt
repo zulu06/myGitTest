@@ -3,3 +3,7 @@ change again
 change 01 in master
 change 02 in master
 change 03 in master
+Modified version 02 in mydev
+Master version restored - update
+current change in mydev
+current change in mydev2
