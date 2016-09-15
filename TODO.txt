@@ -1,2 +1,1 @@
-Modified version 02 in mydev
-Master version restored - update
+new change in master
