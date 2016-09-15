@@ -8,6 +8,7 @@ Change 03 in my dev
 Change 02 in main branch
 =======
 Main Version
+<<<<<<< Upstream, based on 129df76f7c84cac764f6bd7c619a23d4935e07b5
 Final change in mydev - very last change
 Change 02 in my dev
 <<<<<<< Upstream, based on origin/master
@@ -22,4 +23,10 @@ Change in main branch
 
 Main Version
 Change in main branch
+<<<<<<< Upstream, based on origin/master
 >>>>>>> 468af9e Change 01 in my dev02
+=======
+=======
+Change 02 in main branch
+>>>>>>> a800d47 Change 02 in main branch
+>>>>>>> ad94c03 Change 02 in main branch
