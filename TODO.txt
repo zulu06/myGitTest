@@ -1,3 +1,4 @@
+<<<<<<< Upstream, based on origin/master
 Change 01 in my dev02
 Main Version
 Final change in mydev - very last change
@@ -5,3 +6,8 @@ Change 02 in my dev
 Change 03 in my dev
 
 Change 02 in main branch
+=======
+Main Version
+Final change in mydev - very last change
+Change 02 in my dev
+>>>>>>> c399ae6 Main Version Group All Changes Huge squash
