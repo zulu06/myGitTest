@@ -1,4 +1,7 @@
 Main version stream
+<<<<<<< Upstream, based on origin/master
 Change in master branch
 Change 02 in master branch
 Change 03 in master branch
+Change in master branch
+Change in mydev branch
